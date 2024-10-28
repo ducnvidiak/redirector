@@ -1,2 +1,2 @@
 # redirector
-[visit this site](https://ducit488.github.io/redirector/)
+[visit this site](https://ducnvidiak.github.io/redirector/)
